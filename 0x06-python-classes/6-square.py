@@ -117,5 +117,3 @@ class Square():
             for columns in range(self.__size):
                 print('#', end='')
             print()
-Footer
-
